@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **choisauce/choisauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Howdy hey!
+
+Welcome to my GitHub!
+
+My name is [Austin Choi](https://austinchoi.net). I'm currently a second year student computer science student at UNLV foucsing on full-stack web development, and cybersecurity!
+
+**#30NitesOfCode:**
+[Check out my progress](https://codedex.io/@choisauce/30-nites-of-code)  
+
+![@choisauce #30NitesOfCode](https://codedex.io/api/petStatus?user=choisauce)
