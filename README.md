@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 ## ⇁ Who Am I?
 
-Hey I'm [Austin Choi](https://austinchoi.net)! A 2nd year student at UNLV focusing on Web Development and Cyber Security!
+<p style="text-align: center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 2nd year student at UNLV focusing on Web Development and Cybersecurity!</p>
 
 <img height="300" width="500" alt="Choisauce's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 
 <h3>What I'm doing now!</h3>
 
 - [The Free Cyber Clinic](https://freecyberclinic.org/)
-    - Software Development Comitte
+    - Software Development Committee
         - Project lead for the internal site
         - Developer for other projects
     - Internal Affairs
@@ -42,20 +42,26 @@ Hey I'm [Austin Choi](https://austinchoi.net)! A 2nd year student at UNLV focusi
 
 <h3>Hobbies!</h3>
 
-- Programming!
-    - I like working on personal projects especially things unrelated to what I primarily do like working with CPU architecture, compiler design, etc!
-- Anime!
+- :computer: Programming!
+    - I like working on personal projects especially things unrelated to what I primarily do like working with CPU architecture, compiler design, etc.!
+- :drum: Music!
+    - Before computer science I used to study percussion performance at NYU Steinhardt!
+- :camera: Photography and Video Production!
+    - I used to work in video production for a YouTube channel, editing videos, filming sketches, producing content and so much more!
+    - I also love taking photos specifically nature, urban, and cosplay photography!
+- :tv: Anime!
     - I've been watching anime since I was 3 years old!
     - My favorite for the last 16 years is [Eureka 7](https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven)!!!
-- Video Games!
+    - I also love to cosplay and have done quite a few in the last few years! Check out my [Instagram](https://instagram.com/lysus20) to see my cosplays and the photos I've taken of others!
+- :video_game: Video Games!
     - I love playing minecraft especially using redstone to create CPUs and other computer components!
-- Building Keyboards!
+- :keyboard: Building Keyboards!
     - I love tinkering with and building custom mechanical keyboards!
     - So far I've built 15 keyboards for myself and others!
 
 
 ## ⇁ Languages and Tools
-
+<!-- got the badges from https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -84,10 +90,10 @@ Hey I'm [Austin Choi](https://austinchoi.net)! A 2nd year student at UNLV focusi
 ## ⇁ Reach Out!
 
 <div style="display: flex; justify-content: center; align-items: center">
-<a href="https://linkedin.com/in/choisauce" style="padding: 1rem;"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/lysus20" style="padding: 1rem;"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-<a href="https://x.com/lysus20" style="padding: 1rem;"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-<a href="https://twitch.tv/Lysus20" style="padding: 1rem;"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/choisauce" style="padding: 1px;"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/lysus20" style="padding: 1px;"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="https://x.com/lysus20" style="padding: 1px;"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+<a href="https://twitch.tv/Lysus20" style="padding: 1px;"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
 <!-- <a href="" style="padding: 2rem;"><img alt="" src="" target="_blank"></a> -->
 </div>
 
@@ -104,4 +110,3 @@ Currently doing the
 **The daily log!**
 
 - [Day 1](https://twitter.com/Lysus20/status/1742006047282528436?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1742006047282528436%7Ctwgr%5E9317c5d649a44b9592f1ee2f24e89a1492f4abce%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.codedex.io%2F%40choisauce%2F30-nites-of-code) - [Choice Project Manager v0.1.2](https://github.com/choisauce/choice-project-manager)
-
