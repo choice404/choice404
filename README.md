@@ -113,3 +113,4 @@ Currently doing the
 - [Day 2](https://x.com/Lysus20/status/1742301099951001935?s=20) - [Choice Project Manager v0.1.3](https://github.com/choisauce/choice-project-manager)
 - [Day 3](https://x.com/Lysus20/status/1742784870445985863?s=20) - [Codedex Css Final](https://github.com/choisauce/codedex_finalCss)
 - [Day 4](https://x.com/Lysus20/status/1742822605051375983?s=20) - [Codedex Css Final](https://github.com/choisauce/codedex_finalCss)
+- [Day 5](https://x.com/Lysus20/status/1743221226607407349?s=20) - [LPU](https://github.com/choisauce/LPU)
