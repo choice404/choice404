@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p style="text-align: center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 2nd year student at UNLV focusing on Web Development and Cybersecurity!</p>
 
-<img height="300" width="500" alt="Choisauce's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+<img style="object-fit: cover;" width="40%" alt="Choisauce's Top Languages" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 
 <h3>What I'm doing now!</h3>
 
@@ -109,4 +109,7 @@ Currently doing the
 
 **The daily log!**
 
-- [Day 1](https://twitter.com/Lysus20/status/1742006047282528436?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1742006047282528436%7Ctwgr%5E9317c5d649a44b9592f1ee2f24e89a1492f4abce%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.codedex.io%2F%40choisauce%2F30-nites-of-code) - [Choice Project Manager v0.1.2](https://github.com/choisauce/choice-project-manager)
+- [Day 1](https://x.com/Lysus20/status/1742006047282528436?s=20) - [Choice Project Manager v0.1.2](https://github.com/choisauce/choice-project-manager)
+- [Day 2](https://x.com/Lysus20/status/1742301099951001935?s=20) - [Choice Project Manager v0.1.3](https://github.com/choisauce/choice-project-manager)
+- [Day 3](https://x.com/Lysus20/status/1742784870445985863?s=20) - [Codedex Css Final](https://github.com/choisauce/codedex_finalCss)
+- [Day 4](https://x.com/Lysus20/status/1742822605051375983?s=20) - [Codedex Css Final](https://github.com/choisauce/codedex_finalCss)
