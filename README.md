@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
-* [Who Am I?](#-who-am-i)
-* [Toolbox](#-toolbox)
-* [Reach Out!](#-reach-out)
-* [Currently Working On](#-currently-working-on)
+<ul>
+    <li><a href="#-who-am-i">Who Am I?</a></li>
+    <li> <a href="#-toolbox">Toolbox</a></li>
+    <li> <a href="#-reach-out">Reach Out!</a></li>
+    <li> <a href="#-currently-working-on">Currently Working On</a></li>
+</ul>
 
 <img src="https://tenor.com/view/aesthetic-anime-gif-20314975.gif" alt="Table of Contents" width=400>
 </div>
