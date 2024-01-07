@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 </summary>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center;">
+
+<img src="https://tenor.com/view/aesthetic-anime-gif-20314975.gif" alt="Table of Contents" width=250 align=right>
 
 <ul>
     <li><a href="#-who-am-i">Who Am I?</a></li>
@@ -32,8 +34,6 @@ Here are some ideas to get you started:
     <li> <a href="#-reach-out">Reach Out!</a></li>
     <li> <a href="#-currently-working-on">Currently Working On</a></li>
 </ul>
-
-<img src="https://tenor.com/view/aesthetic-anime-gif-20314975.gif" alt="Table of Contents" width=400>
 </div>
 
 </details>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <details open>
 <summary><h3>What I'm doing now!</h3></summary>
 
-<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPFuW8pulBm9mkSSy7qlTzs" width=40% alt="Typing" align="right">
+<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPFuW8pulBm9mkSSy7qlTzs" width=40% alt="Typing" align=right>
 
 <ul>
     <li><a href="https://freecyberclinic.org" target="_blank">The Free Cyber Clinic</a></li>
