@@ -1,5 +1,5 @@
 <!--
-**choisauce/choisauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**choice404/choice404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <p style="text-align: center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 2nd year student at UNLV focusing on Web Development and Cybersecurity!</p>
 
 <div align="center">
-    <a href="http://www.github.com/choisauce"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choisauce&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choisauce's GitHub stats" /></a>
-    <a href="https://github.com/choisauce"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    <a href="http://www.github.com/choisauce"/><img alt="Choisauce Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=choisauce&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+    <a href="http://www.github.com/choice404"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choice404&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choice404's GitHub stats" /></a>
+    <a href="https://github.com/choice404"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choice404&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <a href="http://www.github.com/choice404"/><img alt="choice404 Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=choice404&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 
@@ -186,7 +186,7 @@ Here are some ideas to get you started:
 </summary>
 
 <div style="display: flex; justify-content: center; align-items: center">
-<a href="https://linkedin.com/in/choisauce" style="padding: 1px;"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/choice404" style="padding: 1px;"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lysus20" style="padding: 1px;"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 <a href="https://x.com/lysus20" style="padding: 1px;"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 <a href="https://twitch.tv/Lysus20" style="padding: 1px;"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
@@ -206,17 +206,17 @@ Here are some ideas to get you started:
 
 Currently doing the
 **#30NitesOfCode:**
-[Check out my progress](https://codedex.io/@choisauce/30-nites-of-code)  
+[Check out my progress](https://codedex.io/@choice404/30-nites-of-code)  
 
-![@choisauce #30NitesOfCode](https://codedex.io/api/petStatus?user=choisauce)
+![@choice404 #30NitesOfCode](https://codedex.io/api/petStatus?user=choice404)
 
 **The daily log!**
 
-- [Day 1](https://x.com/Lysus20/status/1742006047282528436?s=20) - [Choice Project Manager v0.1.2](https://github.com/choisauce/choice-project-manager)
-- [Day 2](https://x.com/Lysus20/status/1742301099951001935?s=20) - [Choice Project Manager v0.1.3](https://github.com/choisauce/choice-project-manager)
-- [Day 3](https://x.com/Lysus20/status/1742784870445985863?s=20) - [Codedex Css Final](https://github.com/choisauce/codedex_finalCss)
-- [Day 4](https://x.com/Lysus20/status/1742822605051375983?s=20) - [Codedex Css Final](https://github.com/choisauce/codedex_finalCss)
-- [Day 5](https://x.com/Lysus20/status/1743221226607407349?s=20) - [LPU](https://github.com/choisauce/LPU)
+- [Day 1](https://x.com/Lysus20/status/1742006047282528436?s=20) - [Choice Project Manager v0.1.2](https://github.com/choice404/choice-project-manager)
+- [Day 2](https://x.com/Lysus20/status/1742301099951001935?s=20) - [Choice Project Manager v0.1.3](https://github.com/choice404/choice-project-manager)
+- [Day 3](https://x.com/Lysus20/status/1742784870445985863?s=20) - [Codedex Css Final](https://github.com/choice404/codedex_finalCss)
+- [Day 4](https://x.com/Lysus20/status/1742822605051375983?s=20) - [Codedex Css Final](https://github.com/choice404/codedex_finalCss)
+- [Day 5](https://x.com/Lysus20/status/1743221226607407349?s=20) - [LPU](https://github.com/choice404/LPU)
 - [Day 6](https://x.com/Lysus20/status/1743546407846568079?s=20) - [Google Foundations of Cybersecurity](/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 
 </details>
