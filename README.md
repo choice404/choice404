@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     </ul>
     <li><a href="https://github.com/layer-zero-unlv" target="_blank">Layer Zero</a></li>
     <ul>
-        <li>Officer in the organization</li>
+        <li>Webmaster and project lead for the organization website</li>
     </ul>
 </ul>
 </details>
