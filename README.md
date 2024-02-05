@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPFuW8pulBm9mkSSy7qlTzs" width=40% alt="Typing" align=right>
 
 <ul>
-    <li><a href="https://freecyberclinic.org" target="_blank">The Free Cyber Clinic</a></li>
+    <li><a href="https://freecyberclinic.org" target="_blank">The Cyber Clinic</a></li>
     <ul>
         <li>Software Development Committee</li>
         <ul>
