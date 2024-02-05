@@ -202,21 +202,4 @@ Here are some ideas to get you started:
 
 </summary>
 
-<h3>30 Nites Of Code with <a href="https://codedex.io" target="_blank">Codédex</a>!</h3>
-
-Currently doing the
-**#30NitesOfCode:**
-[Check out my progress](https://codedex.io/@choice404/30-nites-of-code)  
-
-![@choice404 #30NitesOfCode](https://codedex.io/api/petStatus?user=choice404)
-
-**The daily log!**
-
-- [Day 1](https://x.com/Lysus20/status/1742006047282528436?s=20) - [Choice Project Manager v0.1.2](https://github.com/choice404/choice-project-manager)
-- [Day 2](https://x.com/Lysus20/status/1742301099951001935?s=20) - [Choice Project Manager v0.1.3](https://github.com/choice404/choice-project-manager)
-- [Day 3](https://x.com/Lysus20/status/1742784870445985863?s=20) - [Codedex Css Final](https://github.com/choice404/codedex_finalCss)
-- [Day 4](https://x.com/Lysus20/status/1742822605051375983?s=20) - [Codedex Css Final](https://github.com/choice404/codedex_finalCss)
-- [Day 5](https://x.com/Lysus20/status/1743221226607407349?s=20) - [LPU](https://github.com/choice404/LPU)
-- [Day 6](https://x.com/Lysus20/status/1743546407846568079?s=20) - [Google Foundations of Cybersecurity](/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
-
 </details>
