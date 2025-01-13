@@ -48,10 +48,9 @@ Here are some ideas to get you started:
 <p style="text-align: center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 2nd year student at UNLV focusing on Web Development and Cybersecurity!</p>
 
 <div align="center">
-<<<<<<< HEAD
-    <a href="http://www.github.com/choisauce"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choisauce&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choisauce's GitHub stats" /></a>
-    <a href="https://github.com/choisauce"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    <!-- <a href="http://www.github.com/choisauce"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=choisauce&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a> -->
+    <a href="http://www.github.com/choice404"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choice404&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choice404's GitHub stats" /></a>
+    <a href="https://github.com/choice404"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choice404&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <a href="http://www.github.com/choice404"> <img src="https://github-readme-streak-stats.herokuapp.com?user=choice404&theme=transparent&hide_border=true&short_numbers=true&stroke=0891b2&dates=90B7EB&background=0D1117&currStreakLabel=0891b2&currStreakNum=48FFF3&sideLabels=0891b2&fire=48FFF3&sideNums=48FFF3&ring=48FFF3&excludeDaysLabel=48FFF3&border=FFFFFF" alt="Choice404 GitHub Streak" /> </a>
 </div>
 
 <details open>
