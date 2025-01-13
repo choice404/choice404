@@ -48,11 +48,10 @@ Here are some ideas to get you started:
 <p style="text-align: center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 2nd year student at UNLV focusing on Web Development and Cybersecurity!</p>
 
 <div align="center">
-<a href="http://www.github.com/choisauce"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choisauce&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choisauce's GitHub stats" /></a>
-<a href="https://github.com/choisauce"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/choisauce"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=choisauce&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+    <a href="http://www.github.com/choisauce"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choisauce&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choisauce's GitHub stats" /></a>
+    <a href="https://github.com/choisauce"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisauce&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <!-- <a href="http://www.github.com/choisauce"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=choisauce&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a> -->
 </div>
-
 
 <details open>
 <summary><h3>What I'm doing now!</h3></summary>
@@ -60,6 +59,11 @@ Here are some ideas to get you started:
 <img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPFuW8pulBm9mkSSy7qlTzs" width=40% alt="Typing" align=right>
 
 <ul>
+    <li><a href="https://layer-zero.org" target="_blank">Layer Zero</a></li>
+    <ul>
+        <li>Vice President</li>
+        <li>Software developer</li>
+    </ul>
     <li><a href="https://freecyberclinic.org" target="_blank">The Free Cyber Clinic</a></li>
     <ul>
         <li>Software Development Committee</li>
@@ -69,10 +73,6 @@ Here are some ideas to get you started:
         </ul>
         <li>Internal Affairs</li>
         <li>Public Relations</li>
-    </ul>
-    <li><a href="https://github.com/layer-zero-unlv" target="_blank">Layer Zero</a></li>
-    <ul>
-        <li>Officer in the organization</li>
     </ul>
 </ul>
 </details>
@@ -175,7 +175,6 @@ Here are some ideas to get you started:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 </details>
 
 <details open>
@@ -206,7 +205,7 @@ Here are some ideas to get you started:
 
 Currently doing the
 **#30NitesOfCode:**
-[Check out my progress](https://codedex.io/@choisauce/30-nites-of-code)  
+[Check out my progress](https://codedex.io/@choisauce/30-nites-of-code)
 
 ![@choisauce #30NitesOfCode](https://codedex.io/api/petStatus?user=choisauce)
 
