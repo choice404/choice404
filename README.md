@@ -62,16 +62,6 @@ Here are some ideas to get you started:
         <li>Vice President</li>
         <li>Software developer</li>
     </ul>
-    <li><a href="https://freecyberclinic.org" target="_blank">The Cyber Clinic</a></li>
-    <ul>
-        <li>Software Development Committee</li>
-        <ul>
-            <li>Project lead for the internal site</li>
-            <li>Developer for other projects</li>
-        </ul>
-        <li>Internal Affairs</li>
-        <li>Public Relations</li>
-    </ul>
 </ul>
 </details>
 
