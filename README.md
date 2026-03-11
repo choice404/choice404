@@ -71,7 +71,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><h3>Hobbies!</h3></summary>
 
 <br>
