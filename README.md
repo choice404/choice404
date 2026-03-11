@@ -1,113 +1,98 @@
-<!--
-**choice404/choice404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-### Welcome to my GitHub!
+---
 
 <details open>
-<summary>
+<summary><h2>⇁ Table of Contents</h2></summary>
 
-## ⇁ Table of Contents
+<br>
 
-</summary>
+<img src="https://tenor.com/view/aesthetic-anime-gif-20314975.gif" alt="Table of Contents" width="250" align="right">
 
-<div style="display: flex; justify-content: center;">
-
-<img src="https://tenor.com/view/aesthetic-anime-gif-20314975.gif" alt="Table of Contents" width=250 align=right>
-
-<ul>
-    <li><a href="#-who-am-i">Who Am I?</a></li>
-    <li> <a href="#-toolbox">Toolbox</a></li>
-    <li> <a href="#-reach-out">Reach Out!</a></li>
-    <li> <a href="#-currently-working-on">Currently Working On</a></li>
-</ul>
-</div>
+- [Who Am I?](#-who-am-i)
+- [Toolbox](#-toolbox)
+- [Reach Out!](#-reach-out)
+- [Currently Working On](#-currently-working-on)
 
 </details>
 
+---
+
 <details open>
-<summary>
+<summary><h2>⇁ Who Am I?</h2></summary>
 
-## ⇁ Who Am I?
+<br>
 
-</summary>
+<p align="center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 3rd year student at UNLV focusing on Software Development and Cybersecurity obsessed with programming language design and compilers.</p>
 
-<p style="text-align: center">Hey I'm <a href="https://austinchoi.net">Austin Choi</a>! A 2nd year student at UNLV focusing on Web Development and Cybersecurity!</p>
+<br>
 
 <div align="center">
-    <a href="http://www.github.com/choice404"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=choice404&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choice404's GitHub stats" /></a>
-    <a href="https://github.com/choice404"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choice404&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-    <a href="http://www.github.com/choice404"> <img src="https://github-readme-streak-stats.herokuapp.com?user=choice404&theme=transparent&hide_border=true&short_numbers=true&stroke=0891b2&dates=90B7EB&background=0D1117&currStreakLabel=0891b2&currStreakNum=48FFF3&sideLabels=0891b2&fire=48FFF3&sideNums=48FFF3&ring=48FFF3&excludeDaysLabel=48FFF3&border=FFFFFF" alt="Choice404 GitHub Streak" /> </a>
+    <a href="http://www.github.com/choice404">
+        <img width="60%" src="https://github-readme-stats.vercel.app/api?username=choice404&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="choice404's GitHub stats" />
+    </a>
+    <a href="https://github.com/choice404">
+        <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choice404&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+    <br><br>
+    <a href="http://www.github.com/choice404">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=choice404&theme=transparent&hide_border=true&short_numbers=true&stroke=0891b2&dates=90B7EB&background=0D1117&currStreakLabel=0891b2&currStreakNum=48FFF3&sideLabels=0891b2&fire=48FFF3&sideNums=48FFF3&ring=48FFF3&excludeDaysLabel=48FFF3&border=FFFFFF" alt="Choice404 GitHub Streak" />
+    </a>
 </div>
+
+<br>
 
 <details open>
 <summary><h3>What I'm doing now!</h3></summary>
 
-<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPFuW8pulBm9mkSSy7qlTzs" width=40% alt="Typing" align=right>
+<br>
 
-<ul>
-    <li><a href="https://layer-zero.org" target="_blank">Layer Zero</a></li>
-    <ul>
-        <li>Vice President</li>
-        <li>Software developer</li>
-    </ul>
-</ul>
+<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPFuW8pulBm9mkSSy7qlTzs" width="40%" alt="Typing" align="right">
+
+- [Layer Zero](https://layer-zero.org)
+  - President
+  - Software developer
+
 </details>
 
 <details>
 <summary><h3>Hobbies!</h3></summary>
-<ul>
-    <li>:computer: Programming!</li>
-    <ul>
-        <li>I like working on personal projects especially things unrelated to what I primarily do like working with CPU architecture, compiler design, etc.!</li>
-    </ul>
-    <li>:drum: Music!</li>
-    <ul>
-        <li>Before computer science I used to study percussion performance at NYU Steinhardt!</li>
-    </ul>
-    <li>:camera: Photography and Video Production!</li>
-    <ul>
-        <li>I used to work in video production for a YouTube channel, editing videos, filming sketches, producing content and so much more!</li>
-        <li>I also love taking photos specifically nature, urban, and cosplay photography!</li>
-    </ul>
-    <li>:tv: Anime!</li>
-    <ul>
-        <li>I've been watching anime since I was 3 years old!</li>
-        <li>My favorite for the last 16 years is <a href="https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven" target="_blank">Eureka 7</a>!!!</li>
-        <li>I also love to cosplay and have done quite a few in the last few years! Check out my <a href="https://instagram.com/lysus20" target="_blank">Instagram</a> to see my cosplays and the photos I've taken of others!</li>
-    </ul>
-    <li>:video_game: Video Games!</li>
-    <ul>
-        <li>I love playing minecraft especially using redstone to create CPUs and other computer components!</li>
-    </ul>
-    <li>:keyboard: Building Keyboards!</li>
-    <ul>
-        <li>I love tinkering with and building custom mechanical keyboards!</li>
-        <li>So far I've built 15 keyboards for myself and others!</li>
-    </ul>
-</ul>
+
+<br>
+
+- :computer: **Programming!**
+  - I like working on personal projects especially things unrelated to what I primarily do like working with CPU architecture, compiler design, etc.!
+- :drum: **Music!**
+  - Before computer science I used to study percussion performance at NYU Steinhardt!
+- :camera: **Photography and Video Production!**
+  - I used to work in video production for a YouTube channel, editing videos, filming sketches, producing content and so much more!
+  - I also love taking photos specifically nature, urban, and cosplay photography!
+- :tv: **Anime!**
+  - I've been watching anime since I was 3 years old!
+  - My favorite for the last 20 years is [Eureka 7](https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven)!!!
+  - I also love to cosplay and have done quite a few in the last few years! Check out my [Instagram](https://instagram.com/lysus20) to see my cosplays and the photos I've taken of others!
+- :video_game: **Video Games!**
+  - I love playing minecraft especially using redstone to create CPUs and other computer components!
+- :keyboard: **Building Keyboards!**
+  - I love tinkering with and building custom mechanical keyboards!
+  - So far I've built 15 keyboards for myself and others!
+
 </details>
 
 </details>
+
+---
 
 <details open>
-<summary>
+<summary><h2>⇁ Toolbox</h2></summary>
 
-## ⇁ Toolbox
-
-</summary>
 <!-- got the badges from https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
+
+<br>
 
 <h3>Languages</h3>
 
@@ -142,7 +127,7 @@ Here are some ideas to get you started:
 ![Plotly](https://img.shields.io/badge/Curses-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-<h3>Hosting and Databases<h3>
+<h3>Hosting and Databases</h3>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -157,7 +142,7 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h3>Editors<h3>
+<h3>Editors</h3>
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -165,28 +150,71 @@ Here are some ideas to get you started:
 
 </details>
 
+---
+
 <details open>
-<summary>
+<summary><h2>⇁ Reach Out!</h2></summary>
 
-## ⇁ Reach Out!
+<br>
 
-</summary>
-
-<div style="display: flex; justify-content: center; align-items: center">
-<a href="https://linkedin.com/in/choice404" style="padding: 1px;"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/lysus20" style="padding: 1px;"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
-<a href="https://x.com/lysus20" style="padding: 1px;"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-<a href="https://twitch.tv/Lysus20" style="padding: 1px;"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
-<!-- <a href="" style="padding: 2rem;"><img alt="" src="" target="_blank"></a> -->
+<div align="center">
+    <a href="https://linkedin.com/in/choice404"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/lysus20"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+    <a href="https://x.com/lysus20"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+    <a href="https://twitch.tv/Lysus20"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
 </div>
 
 </details>
 
+---
+
 <details open>
-<summary>
+<summary><h2>⇁ Currently Working On</h2></summary>
 
-## ⇁ Currently Working On
+<br>
 
-</summary>
+### [BotBox](https://github.com/choice404/botbox)
+
+BotBox is the ultimate companion for creating Discord bots with ease! Forget the
+tedious boilerplate and dive straight into building the unique functionalities
+that make your bot stand out.
+
+Built with Go, Cobra, Bubble Tea, and Huh, it offers an intuitive command line
+interface to quickly generate Discord bot projects. It features a cog-based
+architecture for modularity, simplifies environment variable management, and
+provides built-in utilities to automate bot configuration.
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/choice404/botbox">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=choice404&repo=botbox&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2" alt="Bot Box Repo Card" />
+    </a>
+</div>
+
+<br>
+
+---
+
+<br>
+
+### [Layer Zero Monorepo](https://github.com/layer-zero-unlv/layer-zero-monorepo)
+
+The main monorepo for [Layer Zero](https://layer-zero.org), UNLV's cybersecurity
+club. A fullstack app with project and team management tools, a full REST API
+built for use by external applications, and more. I help build and maintain it
+as both president and a software developer on the project.
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/layer-zero-unlv/layer-zero-monorepo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=layer-zero-unlv&repo=layer-zero-monorepo&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=ffffff&icon_color=0891b2" alt="Layer Zero Repo Card" />
+    </a>
+</div>
+
+<br>
+
+---
 
 </details>
