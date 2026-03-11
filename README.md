@@ -61,6 +61,12 @@
         <li>President</li>
         <li>Software developer</li>
     </ul>
+    <li>Student</li>
+    <ul>
+        <li>UNLV CS370 - Operating Systems</li>
+        <li>UNLV CS457 - Database Management Systems</li>
+    </ul>
+
 </ul>
 
 </details>
