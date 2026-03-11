@@ -80,6 +80,9 @@
   - I like working on personal projects especially things unrelated to what I primarily do like working with CPU architecture, compiler design, etc.!
 - :drum: **Music!**
   - Before computer science I used to study percussion performance at NYU Steinhardt!
+    <a href="https://www.youtube.com/watch?v=KvbmAXXV5HY">
+    <img src="https://img.youtube.com/vi/KvbmAXXV5HY/maxresdefault.jpg" alt="Austin Choi Marimba Performance" width="400" />
+    </a>
 - :camera: **Photography and Video Production!**
   - I used to work in video production for a YouTube channel, editing videos, filming sketches, producing content and so much more!
   - I also love taking photos specifically nature, urban, and cosplay photography!
